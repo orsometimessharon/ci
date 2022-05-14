@@ -1,0 +1,9 @@
+; XDEBUG Extension
+[xdebug]
+zend_extension="c:/wamp64/bin/php/php7.4.26/zend_ext/php_xdebug-3.1.1-7.4-vc15-x86_64.dll"
+;xdebug.mode allowed are : off develop coverage debug gcstats profile trace
+xdebug.mode =develop
+xdebug.output_dir ="c:/wamp64/tmp"
+xdebug.show_local_vars=0
+xdebug.log="c:/wamp64/logs/xdebug.log"
+xdebug.log_level=7

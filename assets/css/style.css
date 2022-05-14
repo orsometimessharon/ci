@@ -1,0 +1,25 @@
+#social {
+    display: none;
+    color: brown;
+}
+.center{
+    display: table-caption;
+    text-align: center;
+}
+
+.btn-toR-90perc{
+    margin-left: 90%;
+
+}
+#create_form{
+    width: 50%;
+}
+
+#q{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.con{
+    display: inline-flex;
+
+}
